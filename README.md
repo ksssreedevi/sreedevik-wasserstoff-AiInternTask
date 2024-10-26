@@ -1,2 +1,1 @@
-# sreedevik-wasserstoff-AiInternTask
-Domain-Specific PDF Summarization & Keyword Extraction Pipeline
+# Domain-Specific PDF Summarization & Keyword Extraction Pipeline
